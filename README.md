@@ -7,8 +7,7 @@
 
 <h1 align="center">Abstract</h1>
 Regarding the BioRobotics and Assistive Robotics module, we have decided to develop a nature-inspired robot, an animal-like robot titled Spider Robot.
-Spider Robot: This robot consists of four legs that enable it to move in various directions. It will be controlled by a mobile application, the robot will be constructed using 3D printing technology, they are 2 version of the model:
-
+Spider Robot: This robot consists of four legs that enable it to move in various directions. It will be controlled by a mobile application, the robot will be constructed using 3D printing technology.
 <h1 align="center">3D Printing and Hardware </h1>
 <p>We have produced two distinct models, each with the same functionality. Each model includes components such as cowa, femur, tibia, upper body, and lower body, and the image below demonstrates the components and hardware used: </p>
   <img src="hard.jpg" title="Hardware"  height="400"><br>
@@ -793,9 +792,7 @@ void polar_to_servo(int leg, float alpha, float beta, float gamma)
 }  
 ```
 
-<h1 align="center">Simulation</h1>
-<p>You can find the video demonstrating the project :</p>
-https://drive.google.com/file/d/1nFGzGmizmw1E9TX_G_uSkBXE_jMaOjcY/view?usp=sharing
+
 <h1 align="center">Team</h1>
 <ul>
 	<li> Ayoub Hsaine</li>
