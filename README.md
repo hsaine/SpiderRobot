@@ -8,7 +8,6 @@
 <h1 align="center">Abstract</h1>
 Regarding the BioRobotics and Assistive Robotics module, we have decided to develop a nature-inspired robot, an animal-like robot titled Spider Robot.
 Spider Robot: This robot consists of four legs that enable it to move in various directions. It will be controlled by a mobile application, the robot will be constructed using 3D printing technology, they are 2 version of the model:
-<h1 align="center">The Design and Modeling of RoverBot</h1>
 
 <h1 align="center">3D Printing and Hardware </h1>
 <p>We have produced two distinct models, each with the same functionality. Each model includes components such as cowa, femur, tibia, upper body, and lower body, and the image below demonstrates the components and hardware used: </p>
