@@ -804,7 +804,6 @@ void polar_to_servo(int leg, float alpha, float beta, float gamma)
 
 <h1 align="center">Simulation</h1>
 <p>You can find the video demonstrating the project :</p>
-![video](https://github.com/hsaine/SpiderRobot/assets/85867562/0eedf912-93af-4904-8d29-327e28705d66)
 
 <h1 align="center">Team</h1>
 <ul>
