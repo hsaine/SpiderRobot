@@ -1,35 +1,27 @@
 
 <h1 align="center">SpiderRobot</h1>
 <p align="center">
-  <img src="spider.jpg" title="RoverBot"  height="400"><br>
-  Spider Robot
+  <img src="spider.jpg" title="  Spider Robot"  height="400"><br>
 </p>
 
 
 <h1 align="center">Abstract</h1>
 Regarding the BioRobotics and Assistive Robotics module, we have decided to develop a nature-inspired robot, an animal-like robot titled Spider Robot.
-Spider Robot: This robot consists of four legs that enable it to move in various directions. It will be controlled by a mobile application, the robot will be constructed using 3D printing technology, yhey are 2 version of the model.
+Spider Robot: This robot consists of four legs that enable it to move in various directions. It will be controlled by a mobile application, the robot will be constructed using 3D printing technology, they are 2 version of the model:
 <h1 align="center">The Design and Modeling of RoverBot</h1>
 
-<h2 align="center">3D Printing</h2>
-<p>
+<h1 align="center">3D Printing and Hardware </h1>
+<p>We have produced two distinct models, each with the same functionality. Each model includes components such as cowa, femur, tibia, upper body, and lower body, and the image below demonstrates the components and hardware used: </p>
+  <img src="hard.jpg" title="Hardware"  height="400"><br>
+<h2>Hardware</h2>
+<ul>
+	<li>12 SG90-type servo motors </li>
+ 	<li>Arduino nano</li>
+	<li>HC-06 Bluetooth module</li>
+	<li>Expansion I/O shield for Arduino Nano</li>
 
-
-The figures below illustrate the machines constructing different pieces of our robot:</p>
-<table>
-    <tr>
-      <td><img src="photo1674556183 (1).jpeg" alt="Image 1" width="200"></td>
-      <td><img src="photo1674556183 (2).jpeg" alt="Image 2" width="200"></td>
-      <td><img src="photo1674556183 (3).jpeg" alt="Image 3" width="200"></td>
-      <td><img src="photo1674556183 (4).jpeg" alt="Image 4" width="200"></td>
-    </tr>
- 
-  </table>
-
-<h1 align="center">HARDWARE</h1>
-<p></p>
-
-
+	
+</ul>
 
 <h3>Code</h3>
 <p>The code of our project is presented below for your reference :</p>
